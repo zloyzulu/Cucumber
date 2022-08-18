@@ -1,0 +1,16 @@
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\SSConsole001.exe
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\SSConsole001.deps.json
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\SSConsole001.runtimeconfig.json
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\SSConsole001.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\ref\SSConsole001.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\bin\Debug\net6.0\SSConsole001.pdb
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.GlobalUsings.g.cs
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.csproj.AssemblyReference.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.AssemblyInfoInputs.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.AssemblyInfo.cs
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\ref\SSConsole001.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.pdb
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\obj\Debug\net6.0\SSConsole001.genruntimeconfig.cache
