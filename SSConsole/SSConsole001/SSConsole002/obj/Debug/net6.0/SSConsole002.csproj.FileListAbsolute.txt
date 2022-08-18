@@ -1,0 +1,16 @@
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\SSConsole002.exe
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\SSConsole002.deps.json
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\SSConsole002.runtimeconfig.json
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\SSConsole002.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\ref\SSConsole002.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\bin\Debug\net6.0\SSConsole002.pdb
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.GlobalUsings.g.cs
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.csproj.AssemblyReference.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.AssemblyInfoInputs.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.AssemblyInfo.cs
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\ref\SSConsole002.dll
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.pdb
+C:\Users\Станислав\Desktop\Exampies\SSConsole\SSConsole001\SSConsole002\obj\Debug\net6.0\SSConsole002.genruntimeconfig.cache
